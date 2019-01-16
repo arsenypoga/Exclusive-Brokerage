@@ -1,4 +1,10 @@
-# Exclusive brokerage readme
+# Exclusive Brokerage
 
-This is the README for your project "Exclusive Brokerage".
+## How to Use
 
+Simpliest way to serve this, is through python2 SimpleHTTPServer in this folder, like so:
+
+
+```
+python -m SimpleHTTPServer
+```
